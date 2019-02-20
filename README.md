@@ -1,1 +1,1 @@
-# HurriyetAPI #podfile #cocoapods #snapkit #kingfisher
+# HurriyetAPI 
